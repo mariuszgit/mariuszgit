@@ -1,6 +1,6 @@
 # Hi there :v:
 My name is Mariusz. 
-- 💻 React Frontend web developer 
+- 💻 React Frontend developer 
 - :robot: Currently working at  Link Point.
 
 # Skills ans experiance
